@@ -8,3 +8,15 @@ a{
     max-width: 700px;
   }
 }
+
+.nav-link.active {
+  color: rgb(189, 188, 188) !important;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link:hover{
+ color: darkcyan;
+}
