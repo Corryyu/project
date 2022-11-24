@@ -1,7 +1,7 @@
 import './App.css';
 import Container from 'react-bootstrap/Container';
-import React, { useState } from 'react';
-import { Button, Col, Form, FormControl, FormGroup, FormLabel, FormText, Nav, Row, Tab, TabContent, Tabs } from 'react-bootstrap';
+import React from 'react';
+import { Button, Form, FormControl, FormGroup, FormLabel, FormText, Nav, Tab, TabContent } from 'react-bootstrap';
 
 function Account() {
   return (
